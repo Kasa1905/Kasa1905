@@ -48,16 +48,6 @@
 
 ---
 
-### 📊 Streaks & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaushiksambe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushiksambe&theme=dracula" alt="GitHub Activity Graph">
-</p>
-
----
-
 ### ✨ Fun Fact
 
 > ⚡ I automate things for fun and make learning the Constitution fun for others.
