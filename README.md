@@ -21,8 +21,7 @@ I’m Kaushik, a **tech enthusiast** and **problem solver** who thrives on **bui
 
 - 🌱 **Currently Exploring**: AI, Cloud Computing, and Full-Stack Development  
 - 🚀 **Current Missions**:  
-  - 🦶 *Smart Footwear System*  
-  - 📜 *Constitutional Literacy Platform*  
+  - 🦶 *Smart Footwear System*    
   - 🤖 *Apps Script Automations*  
 - 💡 **Interests**: Embedded Systems, Web Development, Open Source, AI, Cloud Tools  
 - 🎯 **Ultimate Goal**: To create technologies that **empower and inspire**.
