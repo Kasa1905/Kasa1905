@@ -32,7 +32,7 @@ I’m Kaushik, a **tech enthusiast** and **problem solver** who thrives on **bui
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mysql,git,github,figma,photoshop,canva,gcp,opencv,streamlit" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mysql,git,github" alt="Tech Stack">
 </p>
 
 ---
@@ -61,7 +61,7 @@ I’m Kaushik, a **tech enthusiast** and **problem solver** who thrives on **bui
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kasa1905&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Kasa1905&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </p>
 
 ---
